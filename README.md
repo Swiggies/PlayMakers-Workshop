@@ -2,7 +2,7 @@
 Source code for PlayMakers workshop.
 
 ### This was made on Unity 2019.4
-Downloading it is not necessary unless you want to see exactly how everything is done.
+Downloading it is not necessary unless you want to see exactly how everything is done and works together, or the animators.
 The main files of interest are:
 
 The meat of the project. The Service Locator acts as a singleton in memory, there is no presence of the Service Locator and any Service in the scenes making it easy to manage.
