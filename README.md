@@ -1,7 +1,7 @@
 # PlayMakers-Workshop
 Source code for PlayMakers workshop.
 
-### This was made on 2019.3
+### This was made on Unity 2019.4
 Downloading it is not necessary unless you want to see exactly how everything is done.
 The main files of interest are:
 
